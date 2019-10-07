@@ -16,7 +16,7 @@ krunner
 
 For being able to use yandex, an api key is required. You have to obtain a key yourself by following these steps:  
 1. Register at https://passport.yandex.com/  
-2. Get a API key at https://tech.yandex.com/keys/get/?service=trnsl   
+2. Get a API key at https://translate.yandex.com/developers/keys
 3. Copy the key to the configuration dialog  
 
 If you do not provide an api key only the translation via glosbe will work.
